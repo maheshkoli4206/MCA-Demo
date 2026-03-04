@@ -7,4 +7,7 @@ Beginner Developer | Learning Mode: ON 🔥
 Code. Break. Fix. Repeat.  
 
 Status: Building Skills  
+
 Mission: Become Pro Developer 💻  
+
+Working.....
